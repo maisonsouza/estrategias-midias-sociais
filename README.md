@@ -12,6 +12,13 @@
 * Desenvolver um guia visual para nortear as publicações da empresa nas mídias sociais.
 
 ## Canais
+* Deve se levar em consideração o estudo de personas, a personalidade da marca e os recursos disponíveis ao escolher o canal.
+* Analisar e avaliar as principais redes sociais(Linkedin, Facebook, Twitter, Instagram, Youtube, Pinterest, Snapchat)
+* Facebook o canal mais democrático.
+* Microsoft dona do Linkedin.
+* Twitter textos cursos e atualizaçes dinâmicas.
+* o Canal ideal para a marca será o que estiver de acordo com o estudo de persona e os recursos disponíveis.
+* Linkedin agora possui um sistema de testes que disponibiliza selos para comprovar competências.
 
 ## Diretrizes e Conteúdo
 
