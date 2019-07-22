@@ -21,8 +21,20 @@
 * Linkedin agora possui um sistema de testes que disponibiliza selos para comprovar competências.
 
 ## Diretrizes e Conteúdo
+* Relacionar os temas que serão abordados de acordo com a persona levantada.
+* Definir a frequência de postagem.
+* Testar a receptividade do público e horarios e dias atuais.
+* Aproveitar notícias e acontecimentos recentes para criar conteúdo,comoção e engajamento.
 
 ## Mensuração de Resultados
+* Verificar o alcance das postagens para medir a qualidade do conteúdo
+* A marcação é a interação mais valiosa.
+* Compartilhar aumenta o alcance.
+* Compartilhar e marcar é o melhor cenário.
+* Comentários ajudam no engajamento com o público.
 
 ## Interação e Influenciadores
+* Devemos responder as interações.
+* Resolver problemas.
+* Buscar influenciador compatível.
 
